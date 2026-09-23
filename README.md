@@ -8,7 +8,9 @@ For my complete professional profile, skills, projects, and background, visit my
 
 <p align="center">
 
-### 🌐 [Visit My Portfolio](https://sadmanjoy-s058.onrender.com/)
+### 🌐 <a href="https://sadmanjoy-s058.onrender.com/" target="_blank">
+  Visit My Portfolio
+</a>
 
 </p>
 
