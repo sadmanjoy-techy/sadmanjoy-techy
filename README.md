@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sadman Joy
+<h1 align="center"><Helo World></h1>
 
-### CSE Student | AI Automation Developer | IT Expert | Aspiring Mechatronics Engineer
+### A Technologist | A Learner
 
 GitHub is primarily my **source-code repository** for the projects, experiments, and solutions I build.
 
