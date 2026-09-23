@@ -20,12 +20,11 @@ For my complete professional profile, skills, projects, and background, visit my
 
 ### 💻 What You'll Find Here
 
-- 🧠 Automation Projects
 - ⚙️ Technology & Engineering Experiments
-- 🔐 Security-Conscious Development
-- 💡 Problem-Solving & Smart Projects
-- 🔌 Electronics & Hardware Projects
 - 🛠️ Tools, Scripts & Technical Solutions
+- 🔐 Security-Conscious Development
+- 🧠 Smart Projects
+- 🔌 Electronics Projects
 
 ---
 
