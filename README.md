@@ -1,5 +1,6 @@
 <h1 align="center">&lt;Helo World&gt;</h1>
-## I'm Joy
+
+# I'm Joy
 ### A Technologist | A Learner
 
 GitHub is primarily my **source-code repository** for the projects, experiments, and solutions I build.
