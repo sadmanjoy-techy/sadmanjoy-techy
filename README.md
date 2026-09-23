@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Sadman Joy
 
-<!--
-**sadmanjoy-techy/sadmanjoy-techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | AI Automation Developer | IT Expert | Aspiring Mechatronics Engineer
 
-Here are some ideas to get you started:
+GitHub is primarily my **source-code repository** for the projects, experiments, and solutions I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For my complete professional profile, skills, projects, and background, visit my portfolio:
+
+<p align="center">
+
+### 🌐 [Visit My Portfolio](https://sadmanjoy-s058.onrender.com/)
+
+</p>
+
+> **GitHub → Source Code & Technical Work**  
+> **Portfolio → Complete Professional Profile**
+
+---
+
+### 💻 What You'll Find Here
+
+- 🧠 Automation Projects
+- ⚙️ Technology & Engineering Experiments
+- 🔐 Security-Conscious Development
+- 💡 Problem-Solving & Smart Projects
+- 🔌 Electronics Projects
+- 🛠️ Tools, Scripts & Technical Solutions
+
+---
+
+<p align="center">
+  <i>Build smart. Solve problems. Keep improving.</i>
+</p>
