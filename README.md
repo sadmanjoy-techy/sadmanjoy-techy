@@ -7,11 +7,9 @@ GitHub is primarily my **source-code repository** for the projects, experiments,
 For my complete professional profile, skills, projects, and background, visit my portfolio:
 
 <p align="center">
-
-### 🌐 <a href="https://sadmanjoy-s058.onrender.com/" target="_blank">
-  Visit My Portfolio
-</a>
-
+  <a href="https://sadmanjoy-s058.onrender.com/" target="_blank">
+    🌐 <strong>Visit My Portfolio</strong>
+  </a>
 </p>
 
 > **GitHub → Source Code & Technical Work**  
@@ -25,7 +23,7 @@ For my complete professional profile, skills, projects, and background, visit my
 - ⚙️ Technology & Engineering Experiments
 - 🔐 Security-Conscious Development
 - 💡 Problem-Solving & Smart Projects
-- 🔌 Electronics Projects
+- 🔌 Electronics & Hardware Projects
 - 🛠️ Tools, Scripts & Technical Solutions
 
 ---
